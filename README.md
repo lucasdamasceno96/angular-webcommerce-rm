@@ -1,27 +1,61 @@
-# Rm
+# Richard Mille watches webcommerce project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
+-------------------------------------------------------------------------------------------
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<div align="center">
+  <sub> Made by
+    <a href="https://github.com/lucasdamasceno96"> Lucas Damasceno </a> 
+  </sub>
+</div>
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# 💻 Technologies.
 
-## Build
+* Angular 
+* Tailwind css
+* Json server 
+* Jwt
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🚀 Description 
 
-## Running unit tests
 
+* This is a webcommerce project that i am working.
+* In this project i could use Angular routes and HTTP requests
+* For the watches data i'm using json server.
+* It's possible modify the watches info in the RM.json
+* Using Jwt to auth the login and register
+
+## 🚧 Installation and  Running the app 
+
+```bash
+# Clone Repository
+$ gh repo clone gh repo clone https://github.com/lucasdamasceno96/angular-webcommerce-rm.git
+$ Open in the terminal 
+$ Run NPM RUN SERVER - to start the json api
+$ Run `NG S` for start the application
+$ http://localhost:4200/.
+$ The application will automatically reload if you change any of the source files.
+ ```
+## Test
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<ul>
+  <li>Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io). </li> 
+ </ul>
+ 
+## Support
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Stay in touch
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## License
+
+
+
+## Prints
+![rm](https://github.com/lucasdamasceno96/angular-webcommerce-rm/assets/105467049/2726983c-92a8-4619-90eb-f09c5f52af40)
+
+
+
